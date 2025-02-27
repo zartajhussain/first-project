@@ -1,2 +1,3 @@
 # first-project
-Tjis is my second repository
+This is my second repository
+Author = Zartaj Hussain
